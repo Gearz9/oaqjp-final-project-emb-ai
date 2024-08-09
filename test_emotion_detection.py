@@ -1,4 +1,4 @@
-from final_project import emotion_detector
+import EmotionDetection
 
 
-emotion_detector("I love this new technology")
+EmotionDetection.emotion_detector("I love this new technology")
